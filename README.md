@@ -1,4 +1,4 @@
-# 📈 Market Alerts – Azure Functions
+# 📈 TradeInstrAlert – Azure Functions
 
 > **Quiet alerts. Clear signals. Human decisions.**
 
