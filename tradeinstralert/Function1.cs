@@ -99,7 +99,7 @@ public sealed class TradeInstrumentAlertFunction
                 if (string.IsNullOrWhiteSpace(smsUser) || string.IsNullOrWhiteSpace(smsPass) ||
                     string.IsNullOrWhiteSpace(smsFrom) || string.IsNullOrWhiteSpace(smsTo))
                 {
-                    _logger.LogWarning("SMS is enabled but VOICETRADING_* env vars are missing; not sending.");
+                    _logger.LogWarning("SMS enabled but VOICETRADING_* env vars are missing; not sending.");
                 }
                 else
                 {
