@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "interval": "5min",
+  "outputSize": 1,
+  "instruments": [
+    {
+      "id": "GOLD",
+      "symbol": "XAU/USD",
+      "targetHigh": 4506.0,
+      "targetLow": null,
+      "enabled": true
+    }
+  ]
+}
